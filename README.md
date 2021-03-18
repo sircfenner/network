@@ -57,4 +57,4 @@ fooEvent:FireServer("Hello, world!")
 ```
 
 ## Examples
-Check out the demo project in this repository to see a working example. This can be synced or built with `demo.project.json` found in this repository.
+Check out the demo project in this repository to see a working example.
